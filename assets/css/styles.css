@@ -28,7 +28,7 @@ li a {
 
 }
 .develop {
-    background-color: #DEA03D;
+    background-color: #EB9D3A;
 
 }
 .support {
@@ -39,9 +39,16 @@ li a {
     background-color: #00ABA9;
 
 }
+/*.mini-circle {*/
+/*    position: relative;*/
+/*    border-radius: 50%;*/
+/*    height:18px;*/
+/*    width:18px;*/
+/*}*/
 .mini-circle {
-    position: relative;
-    border-radius: 50%;
-    height:18px;
-    width:18px;
+    height: 18px;
+    width: 18px;
+    text-align: center;
+    font-size: 9px;
+    font-family: "anton", sans-serif;
 }
