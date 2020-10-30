@@ -54,7 +54,7 @@ li a {
 }
 
 p {
-    color: black;
+    color: rgb(137,137,137);
 }
 .selected-work {
     font-size: 1.2rem;
