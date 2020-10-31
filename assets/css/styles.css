@@ -2,19 +2,16 @@
     font-family: 'Abel', sans-serif;
     background-color: #F0F0F0;
 }
-
 body {
     background-color: #F0F0F0;
 
 }
-
-h1,h2,h3,h4 {
+h1,h2,h3,h4,h5 {
     font-family: "Anton", sans-serif;
 }
 li a {
     color: #6c757d;
 }
-
 .outer-circle {
     border: 8px solid white;
     position: relative;
@@ -22,29 +19,18 @@ li a {
     height:120px;
     width:120px;
 }
-
 .design {
     background-color: #E6563B;
-
 }
 .develop {
     background-color: #EB9D3A;
-
 }
 .support {
     background-color: #7CB06C;
-
 }
 .host {
     background-color: #00ABA9;
-
 }
-/*.mini-circle {*/
-/*    position: relative;*/
-/*    border-radius: 50%;*/
-/*    height:18px;*/
-/*    width:18px;*/
-/*}*/
 .mini-circle {
     height: 18px;
     width: 18px;
@@ -52,10 +38,15 @@ li a {
     font-size: 9px;
     font-family: "anton", sans-serif;
 }
-
 p {
     color: rgb(137,137,137);
 }
 .selected-work {
-    font-size: 1.2rem;
+    font-size: 0.9rem !important;
+}
+.feat{
+    font-size: 0.9rem !important;
+}
+.nav-item {
+    font-size: 0.905rem !important;
 }
