@@ -40,6 +40,7 @@ li a {
 }
 p {
     color: rgb(137,137,137);
+    font-family: "abel", sans-serif;
 }
 .selected-work {
     font-size: 0.9rem !important;
@@ -49,4 +50,9 @@ p {
 }
 .nav-item {
     font-size: 0.905rem !important;
+}
+.last {
+    height:75px;
+    width: 75px;
+    margin-right: .5em;
 }
