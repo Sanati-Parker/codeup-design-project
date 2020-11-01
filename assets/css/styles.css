@@ -42,7 +42,7 @@ p {
     font-family: "abel", sans-serif;
 }
 .selected-work {
-    font-size: 0.9rem !important;
+    font-size: 0.9em !important;
 }
 .feat{
     font-size: 0.9rem !important;
@@ -55,3 +55,17 @@ p {
     width: 75px;
     margin-right: .5em;
 }
+
+hr {
+    background-color: rgb(196,197,198) !important;
+    border: solid 1px rgb(196,197,198) !important;
+    height: 0.1px !important;
+    width: 1000px !important;
+}
+
+@media screen and (min-width: 1024px) {
+    .city-font-size {
+        font-size: 32px;
+    }
+}
+
