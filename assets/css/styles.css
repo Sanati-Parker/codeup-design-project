@@ -123,9 +123,11 @@ hr {
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 992px) {
     .city-font-size {
         font-size: 32px !important;
     }
-
+    hr {
+        width: 95% !important;
+    }
 }
